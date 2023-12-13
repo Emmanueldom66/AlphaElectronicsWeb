@@ -1,6 +1,8 @@
 # AlphaElectronicsWeb
 Electronics app Web
 
+# Descargar y descomprimir el archivo.zip
+
 # Crear el entorno virtual para la aplicación
 pip virtualenv venv
 
