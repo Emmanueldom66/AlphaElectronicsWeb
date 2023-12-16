@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 # Crear un archvo .env para cargar la Apikey de la API de Mouser.
 
-#Correr la aplicación por medio del archoivo run.py con el comando:
+# Correr la aplicación por medio del archoivo run.py con el comando:
 pip run.py
 
 
